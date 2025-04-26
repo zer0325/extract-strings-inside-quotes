@@ -9,3 +9,7 @@ and `uniq`.
 
 
 `$ inquote < sample.js | sort | uniq > result`
+
+## To compile
+
+`$ gcc inquote.c -o inquote`
