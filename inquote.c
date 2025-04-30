@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <string.h>
 
-#define MAXLENGTH 10000
+#define MAXLENGTH 40000
 #define DELIMETER '\"'
 
 int getStrings (char s[]);
